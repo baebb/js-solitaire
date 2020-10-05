@@ -1,6 +1,9 @@
 {
     "name": "js-solitaire",
     "version": "0.1.0",
+    "engines": {
+        "node": "10.x"
+    },
     "author": "Radovan Janjic <hi@radovanjanjic.com>",
     "devDependencies": {
         "autoprefixer": "7.1.1",
